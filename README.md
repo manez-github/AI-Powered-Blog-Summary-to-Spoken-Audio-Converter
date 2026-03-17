@@ -26,7 +26,7 @@ Turn any blog post into a podcast episode in seconds. Paste a URL, and this app 
 4. Wait a few moments while the AI agents scrape, summarize, and narrate the content
 5. Read the generated **Blog Summary** or listen to the **Podcast Audio** directly in the browser
 
-https://github.com/user-attachments/assets/2a4b61f7-133e-4123-bcc5-617d077b5a74
+https://github.com/user-attachments/assets/b321e011-1fb6-4163-b53b-579bc01c090f
 
 ---
 
